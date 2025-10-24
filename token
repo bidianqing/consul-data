@@ -1,0 +1,17 @@
+{
+    "ID": "6bb06c14-dece-dce7-86a8-bd596dff613f",
+    "AccessorID": "3312fcdc-cb77-cda5-6931-979353fb12f6",
+    "SecretID": "6bb06c14-dece-dce7-86a8-bd596dff613f",
+    "Description": "Bootstrap Token (Global Management)",
+    "Policies": [
+        {
+            "ID": "00000000-0000-0000-0000-000000000001",
+            "Name": "global-management"
+        }
+    ],
+    "Local": false,
+    "CreateTime": "2025-10-24T16:31:29.7778055+08:00",
+    "Hash": "X2AgaFhnQGRhSSF/h0m6qpX1wj/HJWbyXcxkEM/5GrY=",
+    "CreateIndex": 21,
+    "ModifyIndex": 21
+}
